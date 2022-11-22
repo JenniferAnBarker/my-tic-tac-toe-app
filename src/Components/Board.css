@@ -4,3 +4,9 @@
   place-items: center;
   justify-content: center;
 }
+
+@media (max-width: 1000px) {
+  .board {
+    grid-template-columns: repeat(3, 7rem);
+  }
+}
