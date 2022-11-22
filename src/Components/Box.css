@@ -10,7 +10,7 @@
   font-family: "F#00539CFFoka One", sans-serif;
   font-weight: bold;
   line-height: 5rem;
-  margin: 0.5rem;
+  margin: 0.5rem auto;
 }
 
 .box:hover {
