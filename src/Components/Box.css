@@ -24,3 +24,12 @@
 .o {
   color: #eea47fff;
 }
+
+@media (max-height: 900px) {
+  .box {
+    width: 3.5rem;
+    height: 3.5rem;
+    font-size: 3.5rem;
+    line-height: 3.5rem;
+  }
+}
